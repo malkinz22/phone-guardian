@@ -1,0 +1,7 @@
+# Never commit your real credentials or captured data
+config.json
+sim_state.json
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
