@@ -2,7 +2,11 @@
   "known_processes": [
     "/data/data/com.termux/files/usr/bin/bash",
     "/data/data/com.termux/files/usr/bin/runsvdir",
+    "/data/data/com.termux/files/usr/libexec/git-core/git",
+    "/data/data/com.termux/files/usr/libexec/git-core/git-remote-htt",
     "<defunct>",
+    "git",
+    "nano",
     "ps",
     "python",
     "runsv",
