@@ -4,6 +4,7 @@
     "/data/data/com.termux/files/usr/bin/runsvdir",
     "/data/data/com.termux/files/usr/libexec/git-core/git",
     "/data/data/com.termux/files/usr/libexec/git-core/git-remote-htt",
+    "/data/data/com.termux/files/usr/libexec/termux-api",
     "<defunct>",
     "git",
     "nano",
