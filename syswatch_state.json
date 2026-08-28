@@ -1,0 +1,14 @@
+{
+  "known_processes": [
+    "/data/data/com.termux/files/usr/bin/bash",
+    "/data/data/com.termux/files/usr/bin/runsvdir",
+    "<defunct>",
+    "ps",
+    "python",
+    "runsv",
+    "runsvdir",
+    "svlogd",
+    "tail",
+    "unzip"
+  ]
+}
